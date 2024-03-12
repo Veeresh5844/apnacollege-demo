@@ -4,4 +4,3 @@ this is my first repository.
 <h1>
 veeresh
 </h1>
-<p>changes are made </p>
